@@ -1,0 +1,1 @@
+web: gunicorn tasksmastger_api.wsgi
